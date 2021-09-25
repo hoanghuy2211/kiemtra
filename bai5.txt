@@ -1,0 +1,14 @@
+
+git init : tạo một thư mục mới có tên git
+
+git add . : thêm tất cả các file vào thư mục mới
+
+git commit -m "" : đẩy thông tin thay đổi lên Local Respository
+
+git push origin master :cập nhật thông tin lên server
+
+git clone (link) :tải thư mục trong git về
+
+git pull : cập nhật những code mới nhất về thư mục trong máy
+
+git status :kiểm tra files đã được thêm vào thư mục mới
